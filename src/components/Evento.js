@@ -1,4 +1,4 @@
-function Evento({numero}) {
+function Evento({ numero }) {
     function meuEvento() {
         console.log(`Opa, fui ativado! ${numero}`);
     };
